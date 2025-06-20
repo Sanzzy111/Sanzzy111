@@ -53,10 +53,9 @@
 ## 🌐 Portals to Other Realms
 
 <p align="center">
-  <a href="https://sanzzy.dev"><img src="https://img.shields.io/badge/Website-Main%20Sanctum-7e22ce?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="https://youtube.com/@sanzzy"><img src="https://img.shields.io/badge/YouTube-Scroll%20of%20Videos-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://discord.gg/yourserver"><img src="https://img.shields.io/badge/Discord-Guild%20of%20Coders-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://instagram.com/sanzzydev"><img src="https://img.shields.io/badge/Instagram-Visual%20Chronicles-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://sanzzyweb.netlify.app"><img src="https://img.shields.io/badge/Website-Main%20SanzzyWeb-7e22ce?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="(https://discord.gg/5hkcb5bCqR)"><img src="https://img.shields.io/badge/Discord-Guild%20of%20Coders-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-Visual%20Chronicles-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---

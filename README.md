@@ -1,63 +1,70 @@
-<!-- Header Aesthetic -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=200&section=header&text=Sanzzy%20Web%20Realm&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+<!-- 🔮 FANTASY AESTHETIC PROFILE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7e22ce&height=200&section=header&text=Welcome%20to%20Sanzzy's%20Realm&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Welcome+to+my+Dev+Journey...;Still+Learning,+Still+Building;Creating+Magic+with+HTML,+CSS,+JS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1200&center=true&vCenter=true&width=500&lines=Aspiring+Web+Wizard...;Learning+HTML,+CSS,+JS;Building+Dreams+one+line+of+code+at+a+time;" alt="Typing SVG" />
 </p>
 
 ---
 
-### ✨ About Me
+## 🧝‍♂️ About Me
 
 ```diff
-+ 🧑‍💻 Name: Sanzzy
-+ 🌱 Status: Junior Web Developer
-+ 🛠️ Learning: HTML • CSS • JavaScript
-+ 🌌 Vibe: Aesthetic, Fantasy, and a bit of Chaos
-+ 🎯 Goal: Master the elements of Web Creation
++ 🔸 Name: Sanzzy
++ 🌱 Path: Junior Web Developer
++ 📚 Training: HTML • CSS • JavaScript
++ 🎨 Style: Dark, Fantasy, Aesthetic
++ 🌌 Mission: Craft magical websites for the modern realm
 ```
 
 ---
 
-### 🔮 My Current Spellbook
+## 🛠️ My Arsenal
 
-- 🌐 HTML5 & CSS3  
-- 🎨 TailwindCSS  
-- 🌀 JavaScript DOM  
-- ⚡ Responsive Design  
-- 📁 Project Struktur Modular  
+- 🧱 HTML5 & CSS3 — Structure & beauty of the realms  
+- 🌪️ TailwindCSS — Utility magic for styling faster  
+- ⚡ JavaScript — Control over the DOM spells  
+- 🌗 Theme Switcher — Light & Dark Realms  
+- 🪄 Responsive UI — For every screen spell  
 
 ---
 
-### 🧭 Projects on My Map
+## 📜 Quests in Progress
 
-```md
-🔹 Personal Website — Made with love + Tailwind animations  
-🔹 Tools Page — Collection of useful web-based tools  
-🔹 Dark-Light Theme Toggle — Switching the realms  
-🔹 QR Scanner Web — Upload, Scan & Extract codes  
-🔹 File Converter — Simple UI for converting formats  
+```markdown
+🔮 Personal Web Sanctum  
+🔧 Tools Chamber (QR, Converter, etc)  
+🌘 Theme Toggler of Darkness & Light  
+🌀 Image Compressor — From MB to KB  
+📂 File Alchemy — Build & Convert Files
 ```
 
 ---
 
-### 📊 My Progress Stats
+## 📊 Stats from the Arcane Scrolls
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanzzy111&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanzzy&show_icons=true&theme=midnight-purple&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanzzy&theme=midnight-purple&hide_border=true" />
 </p>
 
 ---
 
-### 🌀 Connect with Me
+## 🌐 Portals to Other Realms
 
-[![Website](https://img.shields.io/badge/-My%20Website-6a0dad?style=for-the-badge&logo=Firefox&logoColor=white)](https://sanzzyweb.netlify.app)  
-[![Discord](https://img.shields.io/badge/-San's%20Team-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/5hkcb5bCqR)  
-[![Instagram](https://img.shields.io/badge/-@sanzzydev-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)  
+<p align="center">
+  <a href="https://sanzzy.dev"><img src="https://img.shields.io/badge/Website-Main%20Sanctum-7e22ce?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://youtube.com/@sanzzy"><img src="https://img.shields.io/badge/YouTube-Scroll%20of%20Videos-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://discord.gg/yourserver"><img src="https://img.shields.io/badge/Discord-Guild%20of%20Coders-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://instagram.com/sanzzydev"><img src="https://img.shields.io/badge/Instagram-Visual%20Chronicles-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
 ---
 
-<p align="center">🧙‍♂️ “Even junior wizards once struggled with their first spell. Keep coding.”</p>
+## ✨ Wisdom of the Code Mage
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=120&section=footer"/>
+> "Even the strongest wizard was once a clueless apprentice. Keep typing. Keep learning. Keep summoning websites."
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7e22ce&height=120&section=footer"/>

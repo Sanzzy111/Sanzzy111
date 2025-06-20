@@ -44,7 +44,7 @@
 ### 📊 My Progress Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanzzy&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanzzy111&show_icons=true&theme=midnight-purple&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanzzy&theme=midnight-purple&hide_border=true" />
 </p>
 
